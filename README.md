@@ -313,6 +313,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### LLM Ops
 
+* [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 * [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 
 ### Bot Development
